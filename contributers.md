@@ -1,4 +1,4 @@
-| Name| Github-ID  | College name |    
+| Avaneesh Verma| avaneeshk2307-wq  | Indian Institute of Information Technology,Allahabad |    IIT2025206
 |:-------------|:------------|:-----------|
 
 <!-- ADD ABOVE THIS-->
