@@ -11,6 +11,4 @@
 | Hardik Singh Rana       | hardik-rana02     | IIIT Allahabad                 |
 | Omdeep Masram           | omicoded19        | IIIT Allahabad                 |
 | Avaneesh Verma          | avaneeshk2307-wq  | IIIT Allahabad                 |
-
-<!-- ADD ABOVE THIS -->
-<!-- example | Korvac | Betty41 | Reyansh College | -->
+| Himansh Arora           | Humanshere        | IIIT Allahabad                 | 
